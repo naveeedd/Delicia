@@ -1,0 +1,247 @@
+body , html {
+    margin: -10px 0 0 0;
+    padding: 0;
+    color: white;
+    font-family: "Outfit", sans-serif;
+   }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.part{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:700px;
+    margin: 0; 
+    padding: 0; 
+}
+.part1{
+    margin: 0; 
+    background-image: url(images/background.jpg);  
+    padding: 0;
+}
+.part2{
+    text-align: center;
+    font-size: 25px;
+    font-weight:300;
+    margin: 0;
+    padding: 10px;
+    background-color: #BF9161;
+}
+
+.part3{
+    background-image: url(images/background-2.jpg);
+    margin: 0; 
+    padding: 0;
+
+}
+.header{
+    width: auto;
+    display: flex;
+    justify-content: space-between;   
+    align-items: center;
+    margin: 0 15px 0 0 ;
+    font-size:20px;
+    padding: 0;
+    
+}
+.header nav {
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+}
+
+.signup{
+    margin: 0;
+    padding: 0;
+    background-color: #BF9161;
+    padding: 6px 10px;
+    border-radius: 20px;
+}
+.logo{
+    vertical-align: middle;
+    margin: 0;
+    padding: 10px 0 0 10px;
+    width: 100px;
+    height: 100px;
+}
+.icon{
+    margin: 0;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+}
+
+.bold{
+    font-weight: 700;
+}
+h1{
+    margin: 0 50% 0 auto;
+    font-size:70px;
+    font-weight: 250;
+}
+
+h2{
+    font-size:40px;
+    font-weight: 250;
+    margin: 0;
+    padding: 0;
+}
+#takeaway{
+    padding: 5px 10px 5px 8px;
+    margin: 0 20px 0 0;
+    border-radius: 15px;
+    font-family: "Outfit", sans-serif;
+    color: white;
+    background-color: #BF9161;
+    text-shadow: 0 0 1px black;
+
+    border: none;
+    
+}
+#delivery{
+    padding: 5px 10px 5px 8px;
+    margin: 0 20px 0 0;
+    border-radius: 15px;
+    font-family: "Outfit", sans-serif;
+    text-shadow: 0 0 1px #121212;
+    color: #BF9161;
+    background-color: white;
+    border: none;
+}
+#takeaway img , #delivery img{
+    vertical-align: middle;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.items{
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    background: linear-gradient( #C3986B , rgba(108, 117, 125, 0) );
+    border-radius: 20px;
+
+}
+.content{
+    display: flex;
+    margin: 0 40px;
+    padding: 0;
+}
+.deals{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.front{
+    width: 300px;
+    height: 400px;
+    margin: 60px 0 0 50px ;
+    padding: 0;
+}
+.eclipse{
+    margin: -80px 0 0px 40px;
+    height: 100px;
+    width: 300px;
+    border-radius: 50%;
+    background: linear-gradient( #C3986B , rgba(108, 117, 125, 0) );
+    position:inherit;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0 130px 0;
+}
+.pop{
+    border-radius: 40px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 0 0 1px black;
+
+}
+.btn{
+    display: flex;
+    margin: 10px 0;
+}
+
+h3{
+    color: black;
+    font-size:50px;
+    font-weight: bold;
+    margin: 0;
+    padding: 30px 0 8px 0;
+    text-align: center;
+    text-shadow: 0 0 1px #BF9161;
+}
+.footer{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-items: end;
+    align-items: flex-end;
+    color: black;
+}
+.foot1{
+    display: flex;
+    margin-top: 20px;
+
+}
+.delicia{
+    margin: 40px 10px 20px 10px;
+    font-family: "Bungee", sans-serif;
+    color: #BF9161;
+    font-size:40px
+}
+
+.timings{
+    display: flex;
+    margin-bottom: 0;
+    margin-left: 450px;
+}
+.foot2{
+    display: flex;
+    margin: 0;
+
+}
+.bold-footer{
+    margin: 5px 0;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.social{
+    border-radius: 200px;
+    margin: 10px 10px 0 0;
+    
+}
+.time{
+    margin-top: 20px;
+}
+.footer .icon{
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+}
+.app{
+    display: flex;
+  
+}
+.social-icon{
+    margin: 10px 10px 0 5px;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
