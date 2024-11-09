@@ -1,0 +1,2 @@
+**Café Delicia Homepage**  
+Welcome to Café Delicia! Indulge in a cozy ambiance and explore our delicious menu, featuring freshly brewed coffee, artisanal pastries, and gourmet meals crafted with care. Our homepage offers an easy-to-navigate experience, showcasing daily specials, seasonal favorites, and café news. Discover our story, browse mouth-watering images, and connect with us for the perfect café experience.
